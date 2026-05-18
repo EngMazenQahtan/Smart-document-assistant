@@ -1,0 +1,8 @@
+streamlit
+pytesseract
+pdf2image
+Pillow
+langchain-openai
+langchain-community
+unstructured
+langchain-google-genai
