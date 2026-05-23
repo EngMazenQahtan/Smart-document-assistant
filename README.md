@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📄 Document AI Assistant (RAG + OCR)
 
 ---
